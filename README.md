@@ -16,10 +16,9 @@ The courses are:
 4) JavaScript Programming Essentials - In Progress
 5) Developing Front-End Apps with React
 6) Developing Back-End Apps with Node.js and Express
-7) Developing Back-End Apps with Node.js and Express
-8) Get Started with Cloud Native, DevOps, Agile, and NoSQL
-9) Introduction to Containers w/ Docker, Kubernetes & OpenShift
-10) Application Development using Microservices and Serverless 
-11) Node.js & MongoDB: Developing Back-end Database Applications
-12) JavaScript Full Stack Capstone Project
-13) Software Developer Career Guide and Interview Preparation
+7) Get Started with Cloud Native, DevOps, Agile, and NoSQL
+8) Introduction to Containers w/ Docker, Kubernetes & OpenShift
+9) Application Development using Microservices and Serverless 
+10) Node.js & MongoDB: Developing Back-end Database Applications
+11) JavaScript Full Stack Capstone Project
+12) Software Developer Career Guide and Interview Preparation
